@@ -1,1 +1,1 @@
-
+This project implements the high-voltage discharge circuit used to safely bleed down the inverter’s internal DC-link capacitors after the car is turned off or when a fault triggers the Shut Down Circuit (SDC).
